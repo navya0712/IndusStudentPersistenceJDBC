@@ -1,0 +1,5 @@
+2024-08-25 19:00:11,544 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
+2024-08-25 19:00:11,571 WARN c.i.t.p.i.StudentDaoImpl [main] Student with ID 1026 not found
+2024-08-25 19:00:11,573 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
+2024-08-25 19:00:11,606 INFO c.i.t.p.i.StudentDaoImpl [main] Student inserted successfully with ID 1026
+2024-08-25 19:00:11,608 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp

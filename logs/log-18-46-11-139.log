@@ -1,0 +1,5 @@
+2024-08-25 18:46:10,349 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
+2024-08-25 18:46:10,640 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
+2024-08-25 18:46:11,120 INFO c.i.t.p.i.StudentDaoImpl [main] Student Last Name updated successfully for ID 1026
+2024-08-25 18:46:11,123 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
+2024-08-25 18:46:11,138 INFO c.i.t.p.i.StudentDaoImpl [main] Student First Name updated successfully for ID 1026

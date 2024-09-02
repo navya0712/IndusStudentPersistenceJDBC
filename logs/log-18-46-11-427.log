@@ -1,0 +1,5 @@
+2024-08-25 18:46:11,187 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
+2024-08-25 18:46:11,192 ERROR c.i.t.p.d.TestStudentDaoImpl [main] I am Logger
+2024-08-25 18:46:11,213 INFO c.i.t.p.i.StudentDaoImpl [main] Student data successfully fetched for ID 1026
+2024-08-25 18:46:11,408 INFO c.i.t.p.i.StudentDaoImpl [main] Student Last Name updated successfully for ID 1026
+2024-08-25 18:46:11,410 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with database URL: jdbc:mysql://localhost:3306/studentapp
